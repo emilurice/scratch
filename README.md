@@ -1,1 +1,1 @@
-Test reository for learning github! 
+Test repository for learning github! 
